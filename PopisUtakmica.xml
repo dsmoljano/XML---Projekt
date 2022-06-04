@@ -1,0 +1,435 @@
+
+  <Utakmice>
+    <Utakmica>
+      <Datum>21.11</Datum>
+      <Ekipa1>Qatar</Ekipa1>
+      <UtakmicaRB>1</UtakmicaRB>
+      <Ekipa2>Ecuador</Ekipa2>
+      <Grupa>A</Grupa>
+      <Vrijeme>19:00</Vrijeme>
+      <Lokacija>Al Bayt Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>21.11</Datum>
+      <Ekipa1>Senegal</Ekipa1>
+      <UtakmicaRB>2</UtakmicaRB>
+      <Ekipa2>Netherlands</Ekipa2>
+      <Grupa>A</Grupa>
+      <Vrijeme>13:00</Vrijeme>
+      <Lokacija>Al Thumama Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>21.11</Datum>
+      <Ekipa1>England</Ekipa1>
+      <UtakmicaRB>3</UtakmicaRB>
+      <Ekipa2>Iran</Ekipa2>
+      <Grupa>B</Grupa>
+      <Vrijeme>16:00</Vrijeme>
+      <Lokacija>Khalifa International Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>21.11</Datum>
+      <Ekipa1>USA</Ekipa1>
+      <UtakmicaRB>4</UtakmicaRB>
+      <Ekipa2>Euro Play-Off</Ekipa2>
+      <Grupa>B</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Ahmad Bin Ali Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>22.11</Datum>
+      <Ekipa1>France</Ekipa1>
+      <UtakmicaRB>5</UtakmicaRB>
+      <Ekipa2>IC Play Off 1</Ekipa2>
+      <Grupa>D</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Al Janoub Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>22.11</Datum>
+      <Ekipa1>Denmark</Ekipa1>
+      <UtakmicaRB>6</UtakmicaRB>
+      <Ekipa2>Tunisia</Ekipa2>
+      <Grupa>D</Grupa>
+      <Vrijeme>16:00</Vrijeme>
+      <Lokacija>Education City Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>22.11</Datum>
+      <Ekipa1>Mexico</Ekipa1>
+      <UtakmicaRB>7</UtakmicaRB>
+      <Ekipa2>Poland</Ekipa2>
+      <Grupa>C</Grupa>
+      <Vrijeme>19:00</Vrijeme>
+      <Lokacija>Stadium 974</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>22.11</Datum>
+      <Ekipa1>Argentina</Ekipa1>
+      <UtakmicaRB>8</UtakmicaRB>
+      <Ekipa2>Saudi Arabia</Ekipa2>
+      <Grupa>C</Grupa>
+      <Vrijeme>13:00</Vrijeme>
+      <Lokacija>Lusail Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>23.11</Datum>
+      <Ekipa1>Belgium</Ekipa1>
+      <UtakmicaRB>9</UtakmicaRB>
+      <Ekipa2>Canada</Ekipa2>
+      <Grupa>F</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Ahmad Bin Ali Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>23.11</Datum>
+      <Ekipa1>Spain</Ekipa1>
+      <UtakmicaRB>10</UtakmicaRB>
+      <Ekipa2>IC Play Off 2</Ekipa2>
+      <Grupa>E</Grupa>
+      <Vrijeme>19:00</Vrijeme>
+      <Lokacija>Al Thumama Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>23.11</Datum>
+      <Ekipa1>Germany</Ekipa1>
+      <UtakmicaRB>11</UtakmicaRB>
+      <Ekipa2>Japan</Ekipa2>
+      <Grupa>E</Grupa>
+      <Vrijeme>16:00</Vrijeme>
+      <Lokacija>Khalifa International Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>23.11</Datum>
+      <Ekipa1>Morocco</Ekipa1>
+      <UtakmicaRB>12</UtakmicaRB>
+      <Ekipa2>Croatia</Ekipa2>
+      <Grupa>F</Grupa>
+      <Vrijeme>13:00</Vrijeme>
+      <Lokacija>Al Bayt Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>24.11</Datum>
+      <Ekipa1>Switzerland</Ekipa1>
+      <UtakmicaRB>13</UtakmicaRB>
+      <Ekipa2>Cameroon</Ekipa2>
+      <Grupa>G</Grupa>
+      <Vrijeme>13:00</Vrijeme>
+      <Lokacija>Al Janoub Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>24.11</Datum>
+      <Ekipa1>Uruguay</Ekipa1>
+      <UtakmicaRB>14</UtakmicaRB>
+      <Ekipa2>South Korea</Ekipa2>
+      <Grupa>H</Grupa>
+      <Vrijeme>16:00</Vrijeme>
+      <Lokacija>Education City Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>24.11</Datum>
+      <Ekipa1>Portugal</Ekipa1>
+      <UtakmicaRB>15</UtakmicaRB>
+      <Ekipa2>Ghana</Ekipa2>
+      <Grupa>H</Grupa>
+      <Vrijeme>19:00</Vrijeme>
+      <Lokacija>Stadium 974</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>24.11</Datum>
+      <Ekipa1>Brazil</Ekipa1>
+      <UtakmicaRB>16</UtakmicaRB>
+      <Ekipa2>Serbia</Ekipa2>
+      <Grupa>G</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Lusail Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>25.11</Datum>
+      <Ekipa1>Iran</Ekipa1>
+      <UtakmicaRB>17</UtakmicaRB>
+      <Ekipa2>Euro Play-Off</Ekipa2>
+      <Grupa>B</Grupa>
+      <Vrijeme>13:00</Vrijeme>
+      <Lokacija>Ahmad Bin Ali Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>25.11</Datum>
+      <Ekipa1>Qatar</Ekipa1>
+      <UtakmicaRB>18</UtakmicaRB>
+      <Ekipa2>Senegal</Ekipa2>
+      <Grupa>A</Grupa>
+      <Vrijeme>16:00</Vrijeme>
+      <Lokacija>Al Thumama Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>25.11</Datum>
+      <Ekipa1>Netherlands</Ekipa1>
+      <UtakmicaRB>19</UtakmicaRB>
+      <Ekipa2>Ecuador</Ekipa2>
+      <Grupa>A</Grupa>
+      <Vrijeme>19:00</Vrijeme>
+      <Lokacija>Khalifa International Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>25.11</Datum>
+      <Ekipa1>England</Ekipa1>
+      <UtakmicaRB>20</UtakmicaRB>
+      <Ekipa2>USA</Ekipa2>
+      <Grupa>B</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Al Bayt Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>26.11</Datum>
+      <Ekipa1>Tunisia</Ekipa1>
+      <UtakmicaRB>21</UtakmicaRB>
+      <Ekipa2>IC Play Off 1</Ekipa2>
+      <Grupa>D</Grupa>
+      <Vrijeme>13:00</Vrijeme>
+      <Lokacija>Al Janoub Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>26.11</Datum>
+      <Ekipa1>Poland</Ekipa1>
+      <UtakmicaRB>22</UtakmicaRB>
+      <Ekipa2>Saudi Arabia</Ekipa2>
+      <Grupa>C</Grupa>
+      <Vrijeme>16:00</Vrijeme>
+      <Lokacija>Education City Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>26.11</Datum>
+      <Ekipa1>France</Ekipa1>
+      <UtakmicaRB>23</UtakmicaRB>
+      <Ekipa2>Denmark</Ekipa2>
+      <Grupa>D</Grupa>
+      <Vrijeme>19:00</Vrijeme>
+      <Lokacija>Stadium 974</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>26.11</Datum>
+      <Ekipa1>Argentina</Ekipa1>
+      <UtakmicaRB>24</UtakmicaRB>
+      <Ekipa2>Mexico</Ekipa2>
+      <Grupa>C</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Lusail Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>27.11</Datum>
+      <Ekipa1>Japan</Ekipa1>
+      <UtakmicaRB>25</UtakmicaRB>
+      <Ekipa2>IC Play Off 2</Ekipa2>
+      <Grupa>E</Grupa>
+      <Vrijeme>13:00</Vrijeme>
+      <Lokacija>Ahmad Bin Ali Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>27.11</Datum>
+      <Ekipa1>Belgium</Ekipa1>
+      <UtakmicaRB>26</UtakmicaRB>
+      <Ekipa2>Morocco</Ekipa2>
+      <Grupa>F</Grupa>
+      <Vrijeme>16:00</Vrijeme>
+      <Lokacija>Al Thumama Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>27.11</Datum>
+      <Ekipa1>Croatia</Ekipa1>
+      <UtakmicaRB>27</UtakmicaRB>
+      <Ekipa2>Canada</Ekipa2>
+      <Grupa>F</Grupa>
+      <Vrijeme>19:00</Vrijeme>
+      <Lokacija>Khalifa International Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>27.11</Datum>
+      <Ekipa1>Spain</Ekipa1>
+      <UtakmicaRB>28</UtakmicaRB>
+      <Ekipa2>Germany</Ekipa2>
+      <Grupa>E</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Al Bayt Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>28.11</Datum>
+      <Ekipa1>Serbia</Ekipa1>
+      <UtakmicaRB>29</UtakmicaRB>
+      <Ekipa2>Cameroon</Ekipa2>
+      <Grupa>G</Grupa>
+      <Vrijeme>13:00</Vrijeme>
+      <Lokacija>Al Janoub Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>28.11</Datum>
+      <Ekipa1>South Korea</Ekipa1>
+      <UtakmicaRB>30</UtakmicaRB>
+      <Ekipa2>Ghana</Ekipa2>
+      <Grupa>H</Grupa>
+      <Vrijeme>16:00</Vrijeme>
+      <Lokacija>Education City Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>28.11</Datum>
+      <Ekipa1>Brazil</Ekipa1>
+      <UtakmicaRB>31</UtakmicaRB>
+      <Ekipa2>Switzerland </Ekipa2>
+      <Grupa>G</Grupa>
+      <Vrijeme>19:00</Vrijeme>
+      <Lokacija>Stadium 974</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>28.11</Datum>
+      <Ekipa1>Portugal</Ekipa1>
+      <UtakmicaRB>32</UtakmicaRB>
+      <Ekipa2>Uruguay</Ekipa2>
+      <Grupa>H</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Lusail Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>29.11</Datum>
+      <Ekipa1>England</Ekipa1>
+      <UtakmicaRB>33</UtakmicaRB>
+      <Ekipa2>Euro Play-Off</Ekipa2>
+      <Grupa>B</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Ahmad Bin Ali Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>29.11</Datum>
+      <Ekipa1>Iran</Ekipa1>
+      <UtakmicaRB>34</UtakmicaRB>
+      <Ekipa2>USA</Ekipa2>
+      <Grupa>B</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Al Thumama Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>29.11</Datum>
+      <Ekipa1>Ecuador</Ekipa1>
+      <UtakmicaRB>35</UtakmicaRB>
+      <Ekipa2>Senegal</Ekipa2>
+      <Grupa>A</Grupa>
+      <Vrijeme>18:00</Vrijeme>
+      <Lokacija>Khalifa International Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>29.11</Datum>
+      <Ekipa1>Netherlands</Ekipa1>
+      <UtakmicaRB>36</UtakmicaRB>
+      <Ekipa2>Qatar</Ekipa2>
+      <Grupa>A</Grupa>
+      <Vrijeme>18:00</Vrijeme>
+      <Lokacija>Al Bayt Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>30.11</Datum>
+      <Ekipa1>Denmark</Ekipa1>
+      <UtakmicaRB>37</UtakmicaRB>
+      <Ekipa2>IC Play Off 1</Ekipa2>
+      <Grupa>D</Grupa>
+      <Vrijeme>18:00</Vrijeme>
+      <Lokacija>Al Janoub Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>30.11</Datum>
+      <Ekipa1>Tunisia</Ekipa1>
+      <UtakmicaRB>38</UtakmicaRB>
+      <Ekipa2>France</Ekipa2>
+      <Grupa>D</Grupa>
+      <Vrijeme>18:00</Vrijeme>
+      <Lokacija>Education City Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>30.11</Datum>
+      <Ekipa1>Poland</Ekipa1>
+      <UtakmicaRB>39</UtakmicaRB>
+      <Ekipa2>Argentina</Ekipa2>
+      <Grupa>C</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Stadium 974</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>30.11</Datum>
+      <Ekipa1>Saudi Arabia</Ekipa1>
+      <UtakmicaRB>40</UtakmicaRB>
+      <Ekipa2>Mexico</Ekipa2>
+      <Grupa>C</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Lusail Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>1.12</Datum>
+      <Ekipa1>Croatia</Ekipa1>
+      <UtakmicaRB>41</UtakmicaRB>
+      <Ekipa2>Belgium</Ekipa2>
+      <Grupa>F</Grupa>
+      <Vrijeme>18:00</Vrijeme>
+      <Lokacija>Ahmad Bin Ali Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>1.12</Datum>
+      <Ekipa1>Canada</Ekipa1>
+      <UtakmicaRB>42</UtakmicaRB>
+      <Ekipa2>Morocco</Ekipa2>
+      <Grupa>F</Grupa>
+      <Vrijeme>18:00</Vrijeme>
+      <Lokacija>Al Thumama Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>1.12</Datum>
+      <Ekipa1>Japan</Ekipa1>
+      <UtakmicaRB>43</UtakmicaRB>
+      <Ekipa2>Spain</Ekipa2>
+      <Grupa>E</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Khalifa International Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>1.12</Datum>
+      <Ekipa1>IC Play Off 2</Ekipa1>
+      <UtakmicaRB>44</UtakmicaRB>
+      <Ekipa2>Germany</Ekipa2>
+      <Grupa>E</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Al Bayt Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>2.12</Datum>
+      <Ekipa1>Ghana</Ekipa1>
+      <UtakmicaRB>45</UtakmicaRB>
+      <Ekipa2>Uruguay</Ekipa2>
+      <Grupa>H</Grupa>
+      <Vrijeme>18:00</Vrijeme>
+      <Lokacija>Al Janoub Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>2.12</Datum>
+      <Ekipa1>South Korea</Ekipa1>
+      <UtakmicaRB>46</UtakmicaRB>
+      <Ekipa2>Portugal</Ekipa2>
+      <Grupa>H</Grupa>
+      <Vrijeme>18:00</Vrijeme>
+      <Lokacija>Education City Stadium</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>2.12</Datum>
+      <Ekipa1>Serbia</Ekipa1>
+      <UtakmicaRB>47</UtakmicaRB>
+      <Ekipa2>Switzerland</Ekipa2>
+      <Grupa>G</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Stadium 974</Lokacija>
+    </Utakmica>
+    <Utakmica>
+      <Datum>2.12</Datum>
+      <Ekipa1>Brazil</Ekipa1>
+      <UtakmicaRB>48</UtakmicaRB>
+      <Ekipa2>Cameroon</Ekipa2>
+      <Grupa>G</Grupa>
+      <Vrijeme>22:00</Vrijeme>
+      <Lokacija>Lusail Stadium</Lokacija>
+    </Utakmica>
+  </Utakmice>
